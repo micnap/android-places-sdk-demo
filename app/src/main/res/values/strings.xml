@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacesAndroid</string>
+    <string name="fragment_autocomplete">Fragment Autocomplete</string>
+    <string name="activity_autocomplete">Activity Autocomplete</string>
+    <string name="powered_by_google">Powered by Google</string>
+    <string name="set_programmatically">Set programmatically</string>
+    <string name="launch_fragment">Launch Fragment</string>
+    <string name="launch_activity">Launch Activity</string>
+</resources>

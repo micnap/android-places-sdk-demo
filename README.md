@@ -4,7 +4,7 @@ It contains 3 activities with accompanying layouts:
 
 MainActivity:
 Allows the user to choose between trying out the AutocompleteSupportFragment widget and the AutocompleteActivity widget.
-[[https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/MainActivity.png|alt=Main]]
+![Main cctivity screen](https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/MainActivity.png)
 
 AutocompleteFragmentActivity:
 Implements the AutocompleteSupportFragment. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.

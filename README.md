@@ -14,7 +14,11 @@ Implements the AutocompleteSupportFragment. Enter text in the search field and a
 <br><br>
 
 AutocompleteActivityActivity:
-Implements the AutocompleteActivity. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.
+Implements the AutocompleteActivity. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.<br><br>
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/activity.png" width="250px">
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/activity_search.png" width="250px">
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/activity_result.png" width="250px">
+<br><br>
 
 Usage:
 - Clone the repo and import it into Android Studio.

@@ -3,11 +3,15 @@ This repo contains the app created during a webinar for Udacity's Android Develo
 It contains 3 activities with accompanying layouts:
 
 MainActivity:
-Allows the user to choose between trying out the AutocompleteSupportFragment widget and the AutocompleteActivity widget.
-![Main cctivity screen](https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/MainActivity.png)
+Allows the user to choose between trying out the AutocompleteSupportFragment widget and the AutocompleteActivity widget.<br><br>
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/MainActivity.png" width="250px"><br><br>
 
 AutocompleteFragmentActivity:
-Implements the AutocompleteSupportFragment. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.
+Implements the AutocompleteSupportFragment. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.<br><br>
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/fragment.png" width="250px"> 
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/fragment_search.png" width="250px">
+<img src="https://github.com/micnap/android-places-sdk-demo/blob/master/repoImages/fragment_result.png" width="250px">
+<br><br>
 
 AutocompleteActivityActivity:
 Implements the AutocompleteActivity. Enter text in the search field and a list of results will be displayed below it.  Choose an item from the list and the details will be displayed.

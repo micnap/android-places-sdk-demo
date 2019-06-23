@@ -1,6 +1,6 @@
 This repo contains the app created during a webinar for Udacity's Android Developer Nanodegree. See https://youtu.be/YqIFoNCzVk0 for the video. It gives an overview of how to use Google's Places SDK for Android, demonstrating the use of the AutocompleteSupportFragment and AutocompleteActivity widgets.
 
-It contains 3 activities:
+It contains 3 activities with accompanying layouts:
 
 MainActivity:
 Allows the user to choose between trying out the AutocompleteSupportFragment widget and the AutocompleteActivity widget.

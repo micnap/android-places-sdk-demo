@@ -27,3 +27,5 @@ Implements the AutocompleteActivity. Enter text in the search field and a list o
 - Create an API in the Google Cloud Platform according to the accompanying video (https://youtu.be/YqIFoNCzVk0).
 - Create a file called key.txt in the assets folder.  Paste the key into the file.
 - Run the app.
+
+**NOTE: This app is not production-ready! It was built for the sole purpose of demoing Places SDK for Android and needs work if used in production.**

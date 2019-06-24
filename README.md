@@ -28,4 +28,6 @@ Implements the AutocompleteActivity. Enter text in the search field and a list o
 - Create a file called key.txt in the assets folder.  Paste the key into the file.
 - Run the app.
 
+<br><br><br><br>
+
 **NOTE: This app is not production-ready! It was built for the sole purpose of demoing Places SDK for Android and needs work if used in production.**

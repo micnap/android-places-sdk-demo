@@ -24,7 +24,7 @@ Implements the AutocompleteActivity. Enter text in the search field and a list o
 
 ## Usage:
 - Clone the repo and import it into Android Studio.
-- Create an API in the Google Cloud Platform according to the accompanying video (https://youtu.be/YqIFoNCzVk0).
+- Create an API key in the Google Cloud Platform according to the accompanying video (https://youtu.be/YqIFoNCzVk0).
 - Create a file called key.txt in the assets folder.  Paste the key into the file.
 - Run the app.
 
